@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+![My statistics](https://github-readme-stats.vercel.app/api?username=madeindjs&show_icons=true&count_private=true&include_all_commits=true)
 
 <!--
 **madeindjs/madeindjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
